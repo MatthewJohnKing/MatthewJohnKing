@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MatthewJohnKing
 - 👀 I’m a mathematician interested generally in Acoustics with a focus in computationally computing analytic results.
-- 🌱 I’m currently starting to work on k-Wave 2 while I also finishing work on a TimeFractional k-wave and prior PhD work
+- 🌱 My current work will be in xDEA (Dynamic Energy Analysis), with both analytic and computational components.
+- 🧟‍♂️ I have previously worked on k-Wave 2, an implementation of the TimeFractional derivative in k-wave and prior PhD work.
 - 💞️ I’m happy to collaborate on shared projects and interests.
-- 📫 How to reach me by email on matthew.king@ucl.ac.uk
+- 📫 How to reach me by email on Matthew.King1@nottingham.ac.uk
 
 <!---
 MatthewJohnKing/MatthewJohnKing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
